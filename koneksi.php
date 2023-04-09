@@ -1,8 +1,8 @@
 <?php
-$servername = "clg8tsz3c001eno9bha8g7jgy";
-$database = "belajar";
-$username = "user_b";
-$password = "112233456";
+$servername = "clg8u8s24001ono9bs6jpklyc";
+$database = "clg8u8s23000k9bno78qmf3ca";
+$username = "clg8u8s1z000i9bnod9efdd4g";
+$password = "ZTUfTJ8bJVi1QKw0VKq94Dkq";
  
 // untuk tulisan bercetak tebal silakan sesuaikan dengan detail database Anda
 // membuat koneksi
